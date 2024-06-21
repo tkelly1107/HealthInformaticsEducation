@@ -21,6 +21,15 @@ This is a free comprehensive education in Health Informatics meant to replace th
 | Core Courses | Core courses include health informatics, bioethics, data analytics, and more. Gain firsthand knowledge, theoretical foundations, and practical skills to address contemporary challenges in healthcare and information technology. |
 | Concentration/Emphasis Courses | Take courses on specific areas within health informatics (like bioinformatics, clinical informatics). |
 | Hands-On Projects | Build your portfolio with hands-on projects. |
+| Internships/Experience | Get out there and put your skills to use. |
+
+##### Author's Note: 
+**Arguably the most important part of all of this is going to be the hands-on projects and internship recommendations. Experience whether it be volunteer, projects, internships, jobs, workshops or any other opportunity to actually work with the material and show employers what you have done is key. It's one thing to show you've taken classes or have degrees, but a whole 'nother to show what you can do with it.**
+
+**I obviously cannot post all the experience opportunities that are out there, but the ones I have listed are to get you started on what types of roles you should be looking for.**
+#
+#
+#
 
 ## Curriculum
 #
@@ -121,4 +130,3 @@ Want to contribute? Great! Go ahead and submit your pull requests. They will be 
 ## License
 
 **Creative Commons Zero Universal (CC0)**
-
