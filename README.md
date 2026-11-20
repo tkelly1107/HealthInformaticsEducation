@@ -5,7 +5,7 @@
 #
 
 This is a free comprehensive education in Health Informatics meant to replace the last 2 years of a standard bachelor curriculum. Meaning, all the major courses and no general education requirements, although there are recommended prerequisites listed. The courses listed are from a variety of sources but mostly Coursera, Udemy and Edx. 
- - This is based on the Commission on Accreditation for Health Informatics and Information Management Education (CAHIIM) curriculum guidelines for [Health Informatics undergraduate programs.](https://www.cahiim.org/docs/default-source/accreditation/process-forms/mhi-process-forms/the-bachelor-health-informatics-curriculum-2023.pdf)
+ - This is based on the Commission on Accreditation for Health Informatics and Information Management Education (CAHIIM) curriculum guidelines for [Health Informatics undergraduate programs.](https://www.cahiim.org/wp-content/uploads/sites/2/2024/08/hi-bs-curriculum.pdf)
  - This is designed for people making a career change, to prepare to enter a health informatics graduate program or anyone that just wants a free undergraduate education in the broad field of health informatics.
  - **We include concentrations in the curriculum so one can choose their emphasis area whether it be bioinformatics, clinical informatics, public health informatics, medical/nursing informatics, consumer health informatics, psychoinformatics or pharmacoinformatics.**
  - This was inspired by [Open Source Society University](https://github.com/ossu). Check out their GitHub if you're interested in undergraduate curriculum in Computer Science, Mathematics or general Data Science. 
